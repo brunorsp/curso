@@ -1,7 +1,7 @@
 <?php
 
 (int)$a = 1;
-(int)$b = 4;
+(int)$b = 5;
 
 $soma = $a + $b;
 
